@@ -6,9 +6,6 @@ tags:
   - Operating system
 ---
 
-{% include base_path %}
-
-
 ## Lecture Review
 
 ## Code Analysis
