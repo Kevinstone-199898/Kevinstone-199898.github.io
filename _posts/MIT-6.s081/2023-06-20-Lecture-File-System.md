@@ -12,7 +12,7 @@ tags:
 ## Code Analysis
 
 log.c:
-``` cpp
+``` c
 void
 initlog(int dev, struct superblock *sb)
 {
