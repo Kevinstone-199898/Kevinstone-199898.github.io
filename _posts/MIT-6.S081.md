@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'mit 6.S081'
 date: 2012-08-14
 permalink: /posts/2012/08/blog-post-1/
 tags:
