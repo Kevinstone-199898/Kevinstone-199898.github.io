@@ -8,8 +8,8 @@ tags:
 
 This is the learning blog for [MIT 6.s081 2021 Operating System Engineering](https://pdos.csail.mit.edu/6.828/2021/index.html). It is the first online course that I learned with blogs to record my notes and thinking!
 
-Category
-======
 
-Lab utils
+[Lecture: File System](https://kevinstone-199898.github.io/posts/MIT-6.s081/Lecture: File System)
+------
+[Lab: File System]
 ------
