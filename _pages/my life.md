@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /mylife/
 title: "To be a better man"
 author_profile: true
