@@ -1,5 +1,5 @@
 ---
-permalink: /Blogs/
+permalink: /blogs/
 title: "Blogs"
 author_profile: true
 
@@ -13,7 +13,7 @@ These are the courses I learned.
 
   * MIT 6.s081 2021:Operating System Engineering
       * Lectures
-          * [File System](https://kevinstone-199898.github.io/posts/MIT-6.s081/Lecture-File-System)
+          * [File System](https://kevinstone-199898.github.io/blogs/MIT-6.s081/Lecture-File-System)
       * Labs
 
   * MIT 6.824 2023: Distributed System
