@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyu Shi"
 title_separator          : "-"
 name                     : &name "Xinyu Shi"
-description              : &description "First-year Master Student in THU-Rookie in CS"
+description              : &description "First-year Master Student in THU CS"
 url                      : https://Kevinstone-199898.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kevinstone.github.io"
@@ -85,9 +85,9 @@ author:
   bio              : "First-year Master Student in THU"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : 529275752@qq.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,15 +103,15 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
