@@ -1,12 +1,12 @@
 ---
-title: 'MIT 6.s081 Operating Systems'
+title: 'MIT 6.s081 2021 Operating System engineering'
 date: 2023-6-20
 permalink: /posts/MITOS/
 tags:
   - operating system
 ---
 
-This is the learing blog for [MIT 6.s081 2021 Operating System engineering]([https://github.com/academicpages/academicpages.github.io](https://pdos.csail.mit.edu/6.828/2021/index.html)). It is the first online self-learning course I did with blogs to record my notes!
+This is the learing blog for [MIT 6.s081 2021 Operating System engineering](https://pdos.csail.mit.edu/6.828/2021/index.html)). It is the first online self-learning course I did with blogs to record my notes!
 
 Category
 ======
