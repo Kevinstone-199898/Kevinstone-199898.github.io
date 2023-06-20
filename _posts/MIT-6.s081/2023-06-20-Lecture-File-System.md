@@ -10,3 +10,19 @@ tags:
 ## Lecture Review
 
 ## Code Analysis
+
+log.c:
+``` cpp
+void
+initlog(int dev, struct superblock *sb)
+{
+  if (sizeof(struct logheader) >= BSIZE)
+    panic("initlog: too big logheader");
+
+  initlock(&log.lock, "log");
+  log.start = sb->logstart;
+  log.size = sb->nlog;
+  log.dev = dev;
+  recover_from_log();
+}
+```
