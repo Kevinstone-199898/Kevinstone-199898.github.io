@@ -1,6 +1,6 @@
 ---
-permalink: /blogs/MIT-6.s081/Lecture-File-System/
 title: "Lecture:File System"
+permalink: /blogs/MIT-6.s081-Lecture-File-System/
 author_profile: true
 tags:
   - Operating system
