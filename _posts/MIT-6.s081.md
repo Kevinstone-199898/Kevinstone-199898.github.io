@@ -1,7 +1,7 @@
 ---
 title: 'MIT 6.s081 2021 Operating System engineering'
 date: 2023-6-20
-permalink: /posts/MITOS/
+permalink: /posts/2012/08/blog-post-4/
 tags:
   - operating system
 ---
